@@ -1,5 +1,15 @@
 #!/bin/sh
 
+########################################
+# Name: Service Sanity Tests
+# Description: 
+# Script to verify microservices are running and reachable
+#
+# Filename: service-sanity-tests.sh
+# Author: techdude101
+# Version: 0.1
+########################################
+
 getFormattedDate() {
    echo $(date --rfc-3339=seconds)
 }
