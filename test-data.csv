@@ -1,0 +1,2 @@
+url,port,path,expectedResponseCode,serviceName
+http://127.0.0.1,8000,/test,200,"iot-device-broker"
